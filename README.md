@@ -21,6 +21,7 @@
 
 - O arquivo [rusty-bargain.ipynb](rusty-bargain.ipynb) contém os códigos utilizados para a conclusão do projeto.
 - O dataset do projeto pode ser encontrado na pasta [dataset](./datasets/). 
+- A pasta [model_output](./model_output/) tem os melhores modelos, após GridSearch, salvos para deixar o código mais rápido.
 
 ## 2. Sobre o Projeto
 
